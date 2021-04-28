@@ -1,0 +1,32 @@
+.topo, .topo2 {
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.topo {
+    margin-left: -20rem;
+    margin-right: 7rem;
+}
+
+.div-top{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: cadetblue;
+}
+
+.telefone {
+    color: rgb(0, 81, 255);
+}
+
+@media(max-width: 720px) {
+    .topo, .topo2 {
+        display: inline-block;
+        margin-top: 1rem;
+    }
+    .topo {
+        margin-left:  0;
+        margin-right: 0;
+    }
+}
+
