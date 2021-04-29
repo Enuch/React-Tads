@@ -10,7 +10,7 @@ export default function Apresentacao() {
                 <br/>
                 <h1><h1 className='badge bg-primary'>Apresentação</h1></h1>
                 <figure className='border border-dark'>
-                    <img className='foto' src={FotoAp} />
+                    <img className='foto' src='./img/fotoAp.jpg' />
                 </figure>
 
                 <p>O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) tem como objetivo a formação de profissionais capazes de compreender o processo de construção e reconstrução do conhecimento no domínio da análise e desenvolvimento de sistemas e, dessa forma, realizar atividades de concepção, especificação, projeto, implementação, avaliação, suporte e manutenção de sistemas computacionais, orientando sua ação na sociedade em geral e no mundo do trabalho em particular para a busca de soluções para o setor produtivo (notadamente o setor primário da economia) e para a melhoria da qualidade de vida das populações. Os profissionais formados atuarão na área de análise e desenvolvimento de sistemas, podendo exercer atividades no campo da análise de sistemas, engenharia de software, gerência de projetos e administração de bancos de dados. <br/>
