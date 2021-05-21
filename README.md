@@ -1,6 +1,6 @@
 # APP React desenvolvido para a prova da terceira unidade de Programação Visual e Autoria Web
 É uma página do curso Tecnólogo Análise e Desenvolvimento de Sistemas (TADS) feita em ReactJS, Bootstrap e Jquery
-Link para vizualizar o site em funcionamento https://enuch-tads-react.netlify.app/formulario
+Link para vizualizar o site em funcionamento https://enuch-tads-react.netlify.app
 
 # Getting Started with Create React App
 
